@@ -1,5 +1,5 @@
 # Hello_World
 ---
-**Hi!I do not know how to use Github to improve my git level.**    
-**Now I am learning！and I am so happy!**
+## 时间:5.2 周六
+**学会了用*Github*还是挺开心的**
 ---
